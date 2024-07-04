@@ -1,0 +1,21 @@
+div{
+
+    background-color: rgb(204, 227, 227);
+    width: 40%;
+    border: 10px solid red;
+    border-radius: 30px;
+    box-shadow: 10px 10px 15px;
+    margin: 20px 20px 10px;
+    padding: 10px 20px 10px ;
+    display: inline-block;
+    
+}
+h2{
+    text-decoration:underline;
+    background-color: rgba(136, 255, 0, 0.53);
+    width: 22%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 15px;
+    padding: 10px 20px 10px ;
+    display:block;
+}
